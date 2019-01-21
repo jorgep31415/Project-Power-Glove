@@ -1,3 +1,4 @@
+# Cube-Solver-and-Guide
 The Arduino code behind our hardware hack for the 5th Annual IdeaHacks, taking place at UCLA.
 
 Pertaining to the theme of transportation, we created a glove device aimed to provide safety for bikers, or enthusiasts of other vehicles, such as BIRDs, when riding at night.
